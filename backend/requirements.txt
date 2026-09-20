@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+google-genai
+sqlalchemy[asyncio]
+aiosqlite
+pydantic-settings
+python-dotenv
+sse-starlette
+sqlglot
+scikit-learn
+python-multipart
+aiofiles
+httpx
